@@ -1,0 +1,28 @@
+#surefire
+#Sat Jul 20 16:53:11 EDT 2013
+testClassesDirectory=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\target\\test-classes
+classPathUrl.2=C\:\\WINDOWS\\system32\\config\\systemprofile\\.m2\\repository\\org\\hibernate\\javax\\persistence\\hibernate-jpa-2.0-api\\1.0.1.Final\\hibernate-jpa-2.0-api-1.0.1.Final.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\target\\classes
+reportsDirectory=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\src\\test\\java
+surefireClassPathUrl.1=C\:\\WINDOWS\\system32\\config\\systemprofile\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.2\\surefire-api-2.7.2.jar
+surefireClassPathUrl.0=C\:\\WINDOWS\\system32\\config\\systemprofile\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.2\\surefire-junit3-2.7.2.jar
+runOrder=filesystem
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\Users\\Ziamor\\GameProjects2\\Runner\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>/rest</rootpath>
+<forge>
+<openshift>
+<NAME>Runner</NAME>
+</openshift>
+</forge>
+</configuration>
